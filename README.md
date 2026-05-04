@@ -2,7 +2,7 @@
 
 A full-stack AI chatbot application featuring **3 selectable personas**, each with unique personality traits, communication styles, and domain expertise. Built with a glassmorphism UI and powered by Google's Gemini API.
 
-![Persona AI Chatbot](./screenshots/placeholder.png)
+![Persona AI Chatbot]([./screenshots/placeholder.png](https://persona-ai-chatbot-murex.vercel.app/))
 
 ---
 
